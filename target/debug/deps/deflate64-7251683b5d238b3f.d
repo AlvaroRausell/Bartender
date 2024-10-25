@@ -1,0 +1,10 @@
+/Users/arausell/repos/BarExtract/target/debug/deps/libdeflate64-7251683b5d238b3f.rmeta: /Users/arausell/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deflate64-0.1.9/src/lib.rs /Users/arausell/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deflate64-0.1.9/src/huffman_tree.rs /Users/arausell/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deflate64-0.1.9/src/inflater_managed.rs /Users/arausell/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deflate64-0.1.9/src/input_buffer.rs /Users/arausell/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deflate64-0.1.9/src/output_window.rs /Users/arausell/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deflate64-0.1.9/src/stream.rs
+
+/Users/arausell/repos/BarExtract/target/debug/deps/deflate64-7251683b5d238b3f.d: /Users/arausell/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deflate64-0.1.9/src/lib.rs /Users/arausell/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deflate64-0.1.9/src/huffman_tree.rs /Users/arausell/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deflate64-0.1.9/src/inflater_managed.rs /Users/arausell/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deflate64-0.1.9/src/input_buffer.rs /Users/arausell/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deflate64-0.1.9/src/output_window.rs /Users/arausell/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deflate64-0.1.9/src/stream.rs
+
+/Users/arausell/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deflate64-0.1.9/src/lib.rs:
+/Users/arausell/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deflate64-0.1.9/src/huffman_tree.rs:
+/Users/arausell/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deflate64-0.1.9/src/inflater_managed.rs:
+/Users/arausell/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deflate64-0.1.9/src/input_buffer.rs:
+/Users/arausell/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deflate64-0.1.9/src/output_window.rs:
+/Users/arausell/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deflate64-0.1.9/src/stream.rs:

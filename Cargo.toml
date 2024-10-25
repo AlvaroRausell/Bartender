@@ -1,0 +1,16 @@
+[package]
+name = "Bartender"
+version = "0.1.0"
+edition = "2021"
+description = "Small Bar-file extract tool built in rust"
+
+[dependencies]
+zip-extract = "0.2.1"
+tao = "0.30.3"
+log = "*"
+urlencoding = "2.1.3"
+
+[package.metadata.bundle]
+name = "Bartender"
+identifier = "io.github.alvarorausell.Bartender"
+osx_minimum_system_version = "10.11"
